@@ -1,0 +1,1 @@
+Press C = lock/unlock the camera on a random boid.
